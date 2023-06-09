@@ -1,41 +1,51 @@
-body {
-  background-color: #343642 !important;
-  color: #f8f8f2 !important;
-}
+/* ==UserStyle==
+@name         Dracula Theme for Oshi
+@namespace    http://oshi.at
+@version      0.1
+@description  A Dracula color scheme for Oshi
+@author       animegamer4422
+==/UserStyle== */
 
-a {
-  color: #8be9fd !important;
-}
+@-moz-document domain("oshi.at") {
+  body {
+    background-color: #343642 !important;
+    color: #f8f8f2 !important;
+  }
 
-.navbar {
-  background-color: #44475a !important;
-}
+  a {
+    color: #8be9fd !important;
+  }
 
-.navbar a {
-  color: #f8f8f2 !important;
-}
+  .navbar {
+    background-color: #44475a !important;
+  }
 
-.navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23f8f8f2' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
-}
+  .navbar a {
+    color: #f8f8f2 !important;
+  }
 
-.form-control {
-  background-color: #44475a !important;
-  color: #f8f8f2 !important;
-  border-color: #6272a4 !important;
-}
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23f8f8f2' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  }
 
-.btn {
-  background-color: #bd93f9 !important;
-  color: #282a36 !important;
-  border-color: #bd93f9 !important;
-}
+  .form-control {
+    background-color: #44475a !important;
+    color: #f8f8f2 !important;
+    border-color: #6272a4 !important;
+  }
 
-.lolwhat {
-  display: none !important;
-}
+  .btn {
+    background-color: #bd93f9 !important;
+    color: #282a36 !important;
+    border-color: #bd93f9 !important;
+  }
 
-.domainsinfo,
-.text-secondary {
-  color: #ffffff !important;
+  .lolwhat {
+    display: none !important;
+  }
+
+  .domainsinfo,
+  .text-secondary {
+    color: #ffffff !important;
+  }
 }
