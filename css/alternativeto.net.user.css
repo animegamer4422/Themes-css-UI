@@ -1,3 +1,13 @@
+/*==UserStyle==
+@name         Dracula theme for alternativeto.net
+@namespace    https://github.com/animegamer4422/Stylus-Dracula
+@version      1.0.0
+@description  A Dracula-inspired theme for <website-name>
+@author       animegamer4422
+@preprocessor stylus
+==/UserStyle==
+*/
+
 @-moz-document domain("alternativeto.net") {
 [data-theme=dark] {
     --mainBg: #282a36; /* background */
