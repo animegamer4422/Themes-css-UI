@@ -1,0 +1,61 @@
+@-moz-document domain("alternativeto.net") {
+[data-theme=dark] {
+    --mainBg: #282a36; /* background */
+    --mainBgRgb: 40,42,54; /* RGB of background */
+    --mainFg: #f8f8f2; /* foreground */
+    --mainFgRgb: 248,248,242; /* RGB of foreground */
+    --lightBrand: #8be9fd; /* cyan */
+    --introBox: #44475a; /* current line/selection */
+    --introBox10: #44475a; /* current line/selection */
+    --introBox20: #44475a; /* current line/selection */
+    --introBox30: #44475a; /* current line/selection */
+    --introBoxMeta: #879ee5; /* comment */
+    --introBoxText: #f8f8f2; /* foreground */
+    --introBoxLink: #bd93f9; /* foreground */
+    --linkColor: #f8f8f2; /* foreground */
+    --popBrand: #50fa7b; /* green */
+    --headingButton: #50fa7b; /* green */
+    --topBrand: #282a36; /* background */
+    --topBrand10: #50fa7b; /* green */
+    --tab: #44475a; /* current line/selection */
+    --mainBrand: #282a36; /* background */
+    --veryLightBrand: #282a36; /* background */
+    --superLightBrand: #282a36; /* background */
+    --gray50: #282a36; /* background */
+    --gray100: #282a36; /* background */
+    --gray150: #282a36; /* background */
+    --gray200: #282a36; /* background */
+    --gray250: #282a36; /* background */
+    --gray300: #282a36; /* background */
+    --gray400: #282a36; /* background */
+    --gray500: #282a36; /* background */
+    --gray700: #282a36; /* background */
+    --gray800: #f8f8f2; /* foreground */
+    --gray1000: #282a36; /* background */
+    --meta: #ffffff; /* comment */
+    --metaLight: #6272a4; /* comment */
+    --negativeLight: #ff5555; /* red */
+    --positiveGreener: #50fa7b; /* green */
+    --positiveGreenerLight: #50fa7b; /* green */
+    --danger: #ff5555; /* red */
+    --lightDanger: #ff5555; /* red */
+    --footer: #282a36 /* background */
+}
+
+.meta {
+    color: #879ee5;
+}
+
+.Footer_footer__BcpJO {
+    color: #ffffff
+}
+
+.site-footer a {
+    color: #879ee5
+}
+
+.Search_mainSearch__8kY4c input[type=search] {
+    border: 2px solid #ffffff !important;
+}
+
+}
