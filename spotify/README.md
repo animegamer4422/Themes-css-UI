@@ -34,6 +34,27 @@
    - Select `Import from File`.
    - Use the link to your backup file: [https://github.com/animegamer4422/Themes-css-UI/blob/main/spotify/spicetify-marketplace](https://github.com/animegamer4422/Themes-css-UI/blob/main/spotify/spicetify-marketplace)
 
+## Modifying the CSS for Spicetify Themes
+
+After importing your settings, themes, and extensions, you may want to modify the CSS to fit your preferences. Here's how you can apply the modified `Bloom` theme CSS from your GitHub repository.
+
+### Steps:
+
+1. ### Accessing the Theme Dev Tools
+
+   - **Open Spotify**.
+   - Navigate to `Marketplace`.
+   - Go to `Extensions`.
+   - Click on `Theme Dev Tools`.
+
+2. ### Applying Modified CSS
+
+   - Open this link in your browser: [Bloom Modified CSS](https://github.com/animegamer4422/Themes-css-UI/blob/main/spotify/bloom-modified-css).
+   - Copy all the contents from the above link.
+   - Go back to Spotify's `Theme Dev Tools`.
+   - Paste the copied contents into the `color.ini` editor.
+   - Save the modifications.
+
 4. ### Verification
 
    - Restart or open your Spotify Desktop Application.
