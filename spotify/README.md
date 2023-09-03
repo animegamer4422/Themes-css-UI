@@ -27,12 +27,12 @@
 3. ### Importing Your Saved Configurations
 
    - **Open Spotify**.
+   - Download the [Backup File](https://github.com/animegamer4422/Themes-css-UI/blob/main/spotify/spicetify-marketplace)
    - Navigate to `Marketplace`.
    - Go to `Extensions`.
    - Click on `Settings`.
    - In the `Backup/Restore` section, click `Open`.
    - Select `Import from File`.
-   - Use the link to your backup file: [https://github.com/animegamer4422/Themes-css-UI/blob/main/spotify/spicetify-marketplace](https://github.com/animegamer4422/Themes-css-UI/blob/main/spotify/spicetify-marketplace)
 
 ## Modifying the CSS for Spicetify Themes
 
