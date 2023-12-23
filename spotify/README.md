@@ -9,8 +9,8 @@
 
 1. ### Installing Spicetify and Marketplace
 
-   - **Open PowerShell as Administrator**:
-     - Press `Win` + `S`, type `PowerShell`, right-click on it, and select `Run as administrator`.
+   - **Open PowerShell**:
+     - Press `Win` + `S`, type `PowerShell`.
    - **Execute the Command to Install Spicetify and the Marketplace**:
      ```powershell
      Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1" | Invoke-Expression
@@ -40,14 +40,21 @@ After importing your settings, themes, and extensions, you may want to modify th
 
 ### Steps:
 
-1. ### Accessing the Theme Dev Tools
+1. ### Enabling the Theme Dev Tools
+
+   - **Open Spotify**.
+   - Navigate to `Marketplace`.
+   - Go to `Marketplace Settings` (Gear Icon - ⚙).
+   - Toggle `Theme developer tools`.
+
+2. ### Accessing the Theme Dev Tools
 
    - **Open Spotify**.
    - Navigate to `Marketplace`.
    - Go to `Extensions`.
    - Click on `Theme Dev Tools`.
 
-2. ### Applying Modified CSS
+3. ### Applying Modified CSS
 
    - Open this link in your browser: [Bloom Modified CSS](https://github.com/animegamer4422/Themes-css-UI/blob/main/spotify/bloom-modified-css).
    - Copy all the contents from the above link.
